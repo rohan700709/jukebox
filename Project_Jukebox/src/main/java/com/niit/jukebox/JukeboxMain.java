@@ -34,6 +34,7 @@ public class JukeboxMain {
                      System.out.println("\t1-Songs\n\t2-Playlist\n\t3-Player\n\t4-Exit");
                      choice = scanner.nextInt();
                      break;
+
                  }
                  switch (choice) {
                      case 1: {
